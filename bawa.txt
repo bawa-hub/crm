@@ -1,0 +1,4 @@
+Administrators/staff members must login at http://localhost/perfex_crm/admin
+itsworkingmind@gmail.com bawa.vikram
+
+Customers contacts must login at http://localhost/perfex_crm/clients
